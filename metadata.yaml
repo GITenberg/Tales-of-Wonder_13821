@@ -1,0 +1,44 @@
+_repo: Tales-of-Wonder_13821
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: "The Last Book of Wonder, originally published as Tales of Wonder, is\
+  \ the tenth book and sixth original short story collection of Irish fantasy writer\
+  \ Lord Dunsany, considered a major influence on the work of J. R. R. Tolkien, H.\
+  \ P. Lovecraft, Ursula K. Le Guin and others.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13821'
+  wikidata: Q7745601
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, English'
+- !lcc 'PR'
+tableOfContents: A tale of London -- Thirteen at table -- The city on Mallington Moor
+  -- Why the milkman shudders when he perceives the dawn -- The bad old woman in black
+  -- The bird of the difficult eye -- The long porter's tale -- The loot of Loma --
+  The secret of the sea -- How Ali came to the Black Country -- The Bureau d'Exchange
+  de Maux -- A story of land and sea -- A tale of the equator -- A narrow escape --
+  The watch-tower -- How Plash-Goo came to the land of None's Desire -- The three
+  sailors' gambit -- The exiles' club -- The three infernal jokes.
+title: Tales of Wonder
+url: http://www.gutenberg.org/ebooks/13821
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Last_Book_of_Wonder
