@@ -33,6 +33,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Fantasy fiction, English'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: A tale of London -- Thirteen at table -- The city on Mallington Moor
   -- Why the milkman shudders when he perceives the dawn -- The bad old woman in black
   -- The bird of the difficult eye -- The long porter's tale -- The loot of Loma --
